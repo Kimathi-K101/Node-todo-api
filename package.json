@@ -1,0 +1,22 @@
+{
+  "name": "node-todo-api",
+  "version": "1.0.0",
+  "description": "Organizational Todo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimathi-K101/Node-todo-api.git"
+  },
+  "author": "Kimathi Kaai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimathi-K101/Node-todo-api/issues"
+  },
+  "homepage": "https://github.com/Kimathi-K101/Node-todo-api#readme",
+  "dependencies": {
+    "mongodb": "^2.2.5"
+  }
+}
