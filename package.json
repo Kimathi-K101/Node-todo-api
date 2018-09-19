@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kimathi-K101/Node-todo-api#readme",
   "dependencies": {
-    "mongodb": "^3.1.0"
+    "mongodb": "^3.1.0",
+    "mongoose": "^4.5.9"
   }
 }
