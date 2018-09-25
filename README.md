@@ -2,7 +2,7 @@
 
 # Project Introduction
 
-I decided to take the initiative to explore other areas of engineering because I would be equipped with skills and practices that would benefit my future and current endeavours. So I decided to use what I was learning at my previous co-op term with The Co-operators Group and start a back-end development project. This would allow me to work with NoSQL databases, cloud-based services, proper unit testing and documentation, and asynchronous programming.
+I decided to take the initiative to explore other areas of engineering because I would be equipped with skills and practices that would benefit my future and current endeavours. So I decided to use what I was learning at my past co-op term with The Co-operators Group and start a back-end development project. This would allow me to work with NoSQL databases, cloud-based services, proper unit testing and documentation, and asynchronous programming.
 
 I was simply curios and was ready to focus and try something new.
 
