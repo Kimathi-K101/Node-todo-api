@@ -18,8 +18,6 @@ Additionally, each function in the application is implemented with a correspondi
 
 # Source Code and Anatomy
 
-The source code for the project is on my github( https://github.com/kimathikaai/Node-ToDo-List-API ).
-
 Files and Directories:  
 - “playground” Directory: Used to test MongoDB queries, connections and ID hashing.  
 - “server/server.js” File: Implementation of POST, GET, DELETE and PATCH endpoint  
