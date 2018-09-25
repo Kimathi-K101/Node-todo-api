@@ -12,7 +12,7 @@ So what I created was a RESTful API for a To-Do List application. Functionalitie
 - Custom user accounts and authentication  
 - Adding and removing tasks  
 - Fetching and editing to-dos  
-- Logging in and out of you personal account  
+- Logging in and out of your personal account  
 
 Additionally, each function in the application is implemented with a corresponding unit testing function. This allows me to easily debug the code when I run into errors. 
 
@@ -20,7 +20,7 @@ Additionally, each function in the application is implemented with a correspondi
 
 Files and Directories:  
 - “playground” Directory: Used to test MongoDB queries, connections and ID hashing.  
-- “server/server.js” File: Implementation of POST, GET, DELETE and PATCH endpoint  
+- “server/server.js” File: Implementation of POST, GET, DELETE and PATCH endpoints.  
 - “server/models” Directory: Used to setup the information required to add a to-do entry and create a user.  
 - “server/middleware/authentication.js” File: Used to validate the user and secure their tasks.  
 - “server/config/config.js” File: Sets up the configuration properties of the application.  
